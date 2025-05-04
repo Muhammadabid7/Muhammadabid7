@@ -1,0 +1,69 @@
+<style>
+  .skill-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+
+  .skill-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: skill-item-animation 1s ease-in-out;
+  }
+
+  .skill-name {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .skill-progress {
+    width: 100%;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+    animation: progress-bar-animation 2s ease-in-out;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background-color: #4CAF50;
+    transition: width 0.5s ease-in-out;
+  }
+
+  .skill-percentage {
+    margin-top: 10px;
+    font-weight: bold;
+    animation: skill-percentage-animation 1s ease-in-out;
+  }
+
+  @keyframes skill-item-animation {
+    0% {
+      transform: translateY(50px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes progress-bar-animation {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+
+  @keyframes skill-percentage-animation {
+    0% {
+      transform: scale(0);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
