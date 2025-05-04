@@ -1,150 +1,35 @@
-# Bidzz Official - Personal Website
+<h1 align="center">Hi 👋, I'm Bidzz Official</h1>
+<h3 align="center">I am an ordinary person who likes things related to technology and happens to be lucky to have a little experience about technology and others. Even though I only learned using autodidactic methods because of a reason that required me to do so :)</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabid7&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabid7" /> </p>
 
-- **Name:** Bidzz Official
-- **Profession:** iDontKnow
-- **Location:** Indonesia
-- **Interests:** Book, Tech, Design, Crack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadabid7" alt="muhammadabid7" /></a> </p>
 
-## Games
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- **Mobile Legends** (MOBA)
-- **Point Blank** (FPS)
-- **Call of Duty: Mobile** (FPS, Battle Royale)
-- **Blood Strike** (FPS, Battle Royale)
+- 🔭 I’m currently working on [LUA XOR ENCRYPTED](https://github.com/BIDZZ-RAWR/lua-xor-encrypt)
 
-## Skills
+- 👯 I’m looking to collaborate on [ALONE](https://t.me/bidzz7)
 
-<details>
-<summary>View Skills</summary>
+- 🤝 I’m looking for help with [FIREBASE BREAKER](https://github.com/BIDZZ-RAWR/Firebase-Breaker)
 
-<div class="skill-container">
-  <div class="skill-item">
-    <div class="skill-name">Turu</div>
-    <div class="skill-progress">
-      <div class="progress-bar" style="width: 97%;"></div>
-    </div>
-    <div class="skill-percentage">97%</div>
-  </div>
-  <div class="skill-item">
-    <div class="skill-name">Reverse Engineer</div>
-    <div class="skill-progress">
-      <div class="progress-bar" style="width: 87%;"></div>
-    </div>
-    <div class="skill-percentage">87%</div>
-  </div>
-  <div class="skill-item">
-    <div class="skill-name">Ethical Hacker</div>
-    <div class="skill-progress">
-      <div class="progress-bar" style="width: 42%;"></div>
-    </div>
-    <div class="skill-percentage">42%</div>
-  </div>
-  <div class="skill-item">
-    <div class="skill-name">Web Designer</div>
-    <div class="skill-progress">
-      <div class="progress-bar" style="width: 58%;"></div>
-    </div>
-    <div class="skill-percentage">58%</div>
-  </div>
-  <div class="skill-item">
-    <div class="skill-name">Software Developer</div>
-    <div class="skill-progress">
-      <div class="progress-bar" style="width: 62%;"></div>
-    </div>
-    <div class="skill-percentage">62%</div>
-  </div>
-</div>
+- 👨‍💻 All of my projects are available at [https://about-me-lemon-omega.vercel.app/](https://about-me-lemon-omega.vercel.app/)
 
-</details>
+- 📫 How to reach me **bidzzofficial@gmail.com**
 
-## Social Media
+- ⚡ Fun fact **no money no life**
 
-- [YouTube](https://youtube.com/@BidzzOFC)
-- [GitHub](https://github.com/Muhammadabid7)
-- [Instagram](https://www.instagram.com/bidzz_ajagin/)
-- [Telegram](https://t.me/bidzz7/)
-- [WhatsApp](https://wa.me/6282350265164?text=Assalamualaikum+Bidzz)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/bidzz_ajagin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidzz_ajagin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bidzz official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bidzz official" height="30" width="40" /></a>
+</p>
 
-## Additional Links
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- [Payment](https://muhammadabid7.github.io/payment)
-- [Channel](https://t.me/cheatbybidzz)
-- [Education](https://youtube.com/@BidzzOFC)
-- [My Playlist](https://open.spotify.com/playlist/3MnO75FZNxJGNAQRt3lExM?si=TvCz0E8lT2yhE6YCQqtlBw)
-- [Contact](https://t.me/bidzz7)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabid7&show_icons=true&locale=en&layout=compact" alt="muhammadabid7" /></p>
 
-## GitHub Actions
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadabid7&show_icons=true&locale=en" alt="muhammadabid7" /></p>
 
-[![Pac-Man Animation](https://github.com/Muhammadabid7/Muhammadabid7/raw/output/github-contribution-grid-snake.svg)](https://github.com/Muhammadabid7/Muhammadabid7)
-
-<style>
-  .skill-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-gap: 20px;
-  }
-
-  .skill-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    animation: skill-item-animation 1s ease-in-out;
-  }
-
-  .skill-name {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .skill-progress {
-    width: 100%;
-    height: 20px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    overflow: hidden;
-    animation: progress-bar-animation 2s ease-in-out;
-  }
-
-  .progress-bar {
-    height: 100%;
-    background-color: #4CAF50;
-    transition: width 0.5s ease-in-out;
-  }
-
-  .skill-percentage {
-    margin-top: 10px;
-    font-weight: bold;
-    animation: skill-percentage-animation 1s ease-in-out;
-  }
-
-  @keyframes skill-item-animation {
-    0% {
-      transform: translateY(50px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
-
-  @keyframes progress-bar-animation {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 100%;
-    }
-  }
-
-  @keyframes skill-percentage-animation {
-    0% {
-      transform: scale(0);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabid7&" alt="muhammadabid7" /></p>
