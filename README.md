@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with [FIREBASE BREAKER](https://github.com/BIDZZ-RAWR/Firebase-Breaker)
 
-- 👨‍💻 All of my projects are available at [https://about-me-lemon-omega.vercel.app/](https://about-me-lemon-omega.vercel.app/)
-
 - 📫 How to reach me **bidzzofficial@gmail.com**
 
 - ⚡ Fun fact **no money no life**
