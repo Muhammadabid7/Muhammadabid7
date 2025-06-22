@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LUA XOR ENCRYPTED](https://github.com/BIDZZ-RAWR/lua-xor-encrypt)
+- 🔭 I’m currently working on [playlist-project](https://github.com/Muhammadabid7/playlist-project) and [LUA XOR ENCRYPTED](https://github.com/BIDZZ-RAWR/lua-xor-encrypt)
 
 - 👯 I’m looking to collaborate on [ALONE](https://t.me/bidzz7)
 
@@ -21,12 +21,49 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/bidzz_ajagin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidzz_ajagin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bidzz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidzz_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bidzz official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bidzz official" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Projects:</h3>
+<ul>
+  <li><a href="https://github.com/Muhammadabid7/playlist-project">playlist-project</a> - Music player with aesthetic UI and smooth animations.</li>
+  <li><a href="https://github.com/Muhammadabid7/Takoyaki-Mayumi">Takoyaki-Mayumi</a> - Website with clean design and engaging animations.</li>
+  <li><a href="https://github.com/Muhammadabid7/kata-kata-hari-ini">kata-kata-hari-ini</a> - Inspirational quotes page with galaxy theme and audio controls.</li>
+  <li><a href="https://github.com/Muhammadabid7/payment">payment</a> - Payment-related project.</li>
+  <li><a href="https://github.com/Muhammadabid7/BIDZZ-PORTOFOLIO-">BIDZZ-PORTOFOLIO-</a> - Personal portfolio.</li>
+  <li><a href="https://github.com/Muhammadabid7/auto-lingo">auto-lingo</a> - Automation project.</li>
+  <li><a href="https://github.com/BIDZZ-RAWR/lua-xor-encrypt">LUA XOR ENCRYPTED</a> - Encryption tool with live demo.</li>
+  <li><a href="https://github.com/BIDZZ-RAWR/Firebase-Breaker">FIREBASE BREAKER</a> - Firebase-related project seeking contributions.</li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">About Me:</h3>
+<ul>
+  <li><strong>Name</strong>: Bidzz Official</li>
+  <li><strong>Profession</strong>: iDontKnow</li>
+  <li><strong>Location</strong>: Indonesia</li>
+  <li><strong>Interests</strong>: Book, Tech, Design, Crack</li>
+</ul>
+
+<h3 align="left">Games:</h3>
+<ul>
+  <li>Mobile Legends (MOBA)</li>
+  <li>Point Blank (FPS)</li>
+  <li>Call of Duty: Mobile (FPS, Battle Royale)</li>
+  <li>Blood Strike (FPS, Battle Royale)</li>
+</ul>
+
+<h3 align="left">Skills:</h3>
+<ul>
+  <li>Turu: 97%</li>
+  <li>Reverse Engineer: 87%</li>
+  <li>Ethical Hacker: 42%</li>
+  <li>Web Designer: 58%</li>
+  <li>Software Developer: 62%</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabid7&show_icons=true&locale=en&layout=compact" alt="muhammadabid7" /></p>
 
