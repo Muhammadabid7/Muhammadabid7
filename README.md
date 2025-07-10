@@ -1,70 +1,95 @@
-<h1 align="center">Hi 👋, I'm Bidzz Official</h1>
-<h3 align="center">I am an ordinary person who likes things related to technology and happens to be lucky to have a little experience about technology and others. Even though I only learned using autodidactic methods because of a reason that required me to do so :)</h3>
+<h1 align="center">🚀 Bidzz Official</h1>
+<h3 align="center">Self-Taught Developer | Reverse Engineer | Digital Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabid7&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabid7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadabid7" alt="muhammadabid7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [playlist-project](https://github.com/Muhammadabid7/playlist-project) and [LUA XOR ENCRYPTED](https://github.com/BIDZZ-RAWR/lua-xor-encrypt)
-
-- 👯 I’m looking to collaborate on [ALONE](https://t.me/bidzz7)
-
-- 🤝 I’m looking for help with [FIREBASE BREAKER](https://github.com/BIDZZ-RAWR/Firebase-Breaker)
-
-- 📫 How to reach me **bidzzofficial@gmail.com**
-
-- ⚡ Fun fact **no money no life**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/bidzz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidzz_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bidzz official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bidzz official" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Autodidact-blue?style=flat-square&logo=codeigniter" />
+  <img src="https://img.shields.io/badge/Platform-YouTube%20|%20Telegram-red?style=flat-square&logo=telegram" />
+  <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-orange?style=flat-square&logo=security" />
 </p>
 
-<h3 align="left">My Projects:</h3>
-<ul>
-  <li><a href="https://github.com/Muhammadabid7/playlist-project">playlist-project</a> - Music player with aesthetic UI and smooth animations.</li>
-  <li><a href="https://github.com/Muhammadabid7/Takoyaki-Mayumi">Takoyaki-Mayumi</a> - Website with clean design and engaging animations.</li>
-  <li><a href="https://github.com/Muhammadabid7/kata-kata-hari-ini">kata-kata-hari-ini</a> - Inspirational quotes page with galaxy theme and audio controls.</li>
-  <li><a href="https://github.com/Muhammadabid7/payment">payment</a> - Payment-related project.</li>
-  <li><a href="https://github.com/Muhammadabid7/BIDZZ-PORTOFOLIO-">BIDZZ-PORTOFOLIO-</a> - Personal portfolio.</li>
-  <li><a href="https://github.com/Muhammadabid7/auto-lingo">auto-lingo</a> - Automation project.</li>
-  <li><a href="https://github.com/BIDZZ-RAWR/lua-xor-encrypt">LUA XOR ENCRYPTED</a> - Encryption tool with live demo.</li>
-  <li><a href="https://github.com/BIDZZ-RAWR/Firebase-Breaker">FIREBASE BREAKER</a> - Firebase-related project seeking contributions.</li>
-</ul>
+<p align="center">
+  <img src="https://bidzzofficial.my.id/Bidzz.png" width="150" alt="Bidzz Profile" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">About Me:</h3>
-<ul>
-  <li><strong>Name</strong>: Bidzz Official</li>
-  <li><strong>Profession</strong>: iDontKnow</li>
-  <li><strong>Location</strong>: Indonesia</li>
-  <li><strong>Interests</strong>: Book, Tech, Design, Crack</li>
-</ul>
+## 🧠 About Me
 
-<h3 align="left">Games:</h3>
-<ul>
-  <li>Mobile Legends (MOBA)</li>
-  <li>Point Blank (FPS)</li>
-  <li>Call of Duty: Mobile (FPS, Battle Royale)</li>
-  <li>Blood Strike (FPS, Battle Royale)</li>
-</ul>
+> *"Great work is born from relentless learning and boundless curiosity."*
 
-<h3 align="left">Skills:</h3>
-<ul>
-  <li>Turu: 97%</li>
-  <li>Reverse Engineer: 87%</li>
-  <li>Ethical Hacker: 42%</li>
-  <li>Web Designer: 58%</li>
-  <li>Software Developer: 62%</li>
-</ul>
+I'm **Muhammad Abid Feriwijaya Hervian**, an 18-year-old **self-taught developer** and **digital creator** from **Pengadan Village, East Kalimantan, Indonesia**. Passionate about technology since my teens, I dive deep into **reverse engineering**, system building, and sharing knowledge through **YouTube**, **Telegram**, and **GitHub**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabid7&show_icons=true&locale=en&layout=compact" alt="muhammadabid7" /></p>
+My mission? To inspire and empower others by **sharing knowledge** and creating impactful projects.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadabid7&show_icons=true&locale=en" alt="muhammadabid7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabid7&" alt="muhammadabid7" /></p>
+## 🛠️ Tech Stack
+
+| **Category**             | **Technologies**                             |
+|--------------------------|----------------------------------------------|
+| **Web Development**      | HTML, CSS, JavaScript                       |
+| **Reverse Engineering**  | APK Decompilation, Smali, Frida             |
+| **Automation**           | Python (Selenium, Requests, BeautifulSoup4) |
+| **Tools & Environment**  | Git, VSCode, Termux, Kali Linux             |
+
+---
+
+## 📊 Skills (2025)
+
+```plaintext
+💻 Web Development        ████████████  80%
+🐍 Python Automation      ██████  40%
+🔓 Reverse Engineering    ███████████████  87%
+📢 Content Creation       ██████  40%
+📲 Telegram Edu Platform  ████████████  85%
+```
+
+---
+
+## 🌐 Portfolio & Platforms
+
+- 🌍 **Website**: [bidzzofficial.my.id](https://bidzzofficial.my.id)
+- 📂 **GitHub**: [Muhammadabid7](https://github.com/Muhammadabid7)
+- 📹 **YouTube**: [Bidzz Official](https://youtube.com/@BidzzOfficial)
+- 💬 **Telegram**: [@BidzzOfficial](https://t.me/BidzzOfficial)
+
+---
+
+## 🧭 Core Values
+
+> *"Code is my weapon, curiosity is my fuel."*
+
+- **Endless Exploration**: Always learning, always experimenting.
+- **Knowledge Sharing**: Empowering others through open education.
+- **Innovation**: Breaking boundaries with creative solutions.
+
+---
+
+## 📬 Contact
+
+- **Name**: Muhammad Abid Feriwijaya Hervian
+- **Age**: 18
+- **Location**: Pengadan, East Kalimantan, Indonesia
+- **Email**: [bidzz.official@gmail.com](mailto:bidzz.official@gmail.com)
+- **Website**: [bidzzofficial.my.id](https://bidzzofficial.my.id)
+- **Telegram**: [@BidzzOfficial](https://t.me/BidzzOfficial)
+
+---
+
+## ✨ Motto
+
+> *"Learning is resistance against ignorance. Code is the weapon."*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=600&lines=Code.+Break.+Repeat.;Create.+Explore.+Share.;Reverse+It+All+Backwards!" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadabid7&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! Keep learning, keep sharing. 🌐</i>
+</p>
