@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=BIDZZ%20OFFICIAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Self-Taught%20Developer%20%7C%20Reverse%20Engineer%20%7C%20Digital%20Creator&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=BIDZZ%20OFFICIAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%2C%20Java%2C%20Kotlin%20%7C%20Mobile%20%26%20Web%20Development%20%7C%20Reverse%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Profile Picture -->
 <img src="https://bidzzofficial.my.id/Bidzz.png" width="180" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);" alt="Bidzz Profile" />
@@ -13,6 +10,9 @@
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Muhammadabid7&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- Animated Typing -->
 <br><br>
@@ -47,16 +47,16 @@ const bidzz = {
     name: "Muhammad Abid Feriwijaya Hervian",
     age: 18,
     location: "Pengadan, East Kalimantan 🇮🇩",
-    role: ["Self-Taught Developer", "Reverse Engineer", "Content Creator"],
+    role: ["Software Developer", "Mobile Developer", "Reverse Engineer"],
     
     skills: {
-        reverseEngineering: ["APK Decompilation", "Smali", "Frida", "Jadx"],
+        mobile: ["Flutter", "Dart", "Java", "Kotlin", "Android"],
         webDev: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
-        automation: ["Python", "Selenium", "BeautifulSoup4"],
-        tools: ["Git", "VSCode", "Termux", "Kali Linux"]
+        reverseEngineering: ["APK Decompilation", "Smali", "Frida", "Jadx"],
+        tools: ["Git", "VSCode", "Android Studio", "Firebase"]
     },
     
-    currentFocus: "Building impactful projects & sharing knowledge",
+    currentFocus: "Building mobile & web applications",
     funFact: "I break things to understand how they work 🔓"
 };
 ```
@@ -71,40 +71,40 @@ const bidzz = {
 <div align="center">
 
 <!-- Animated Tech Icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,git,vscode,linux,firebase&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,react,nextjs,git,vscode,firebase&theme=dark&perline=7" />
 
 <br><br>
 
 <!-- Detailed Skills Table -->
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
-<br><b>🔓 Reverse Engineering</b>
-<br>
-<img src="https://img.shields.io/badge/Level-Expert-ff6b6b?style=flat-square"/>
-<br><sub>APK • Smali • Frida • Jadx</sub>
-</td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-<br><b>💻 Web Development</b>
+<br><b>� Meobile Development</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Advanced-667eea?style=flat-square"/>
-<br><sub>HTML • CSS • JS • React</sub>
+<br><sub>Flutter • Java • Kotlin</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
+<br><b>💻 Web Development</b>
+<br>
+<img src="https://img.shields.io/badge/Level-Advanced-54a0ff?style=flat-square"/>
+<br><sub>React • Next.js • JS</sub>
+</td>
+<td align="center" width="25%">
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-<br><b>🐍 Python</b>
+<br><b>� Retverse Engineering</b>
+<br>
+<img src="https://img.shields.io/badge/Level-Expert-ff6b6b?style=flat-square"/>
+<br><sub>APK • Smali • Frida</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/UqpBpBLTlJcAg5qJrl/giphy.gif" width="60"/>
+<br><b>�️C Tools & DevOps</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Intermediate-feca57?style=flat-square"/>
-<br><sub>Automation • Scraping</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/UqpBpBLTlJcAg5qJrl/giphy.gif" width="60"/>
-<br><b>📹 Content Creation</b>
-<br>
-<img src="https://img.shields.io/badge/Level-Growing-54a0ff?style=flat-square"/>
-<br><sub>YouTube • Telegram</sub>
+<br><sub>Git • Firebase • Android Studio</sub>
 </td>
 </tr>
 </table>
@@ -118,8 +118,8 @@ const bidzz = {
 
 <div align="center">
 
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/Muhammadabid7/Muhammadabid7/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
+<!-- Animated Code GIF -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Animation"/>
 
 <br><br>
 
@@ -144,7 +144,7 @@ const bidzz = {
 <br>
 
 <!-- Coding Activity Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%8C%99+Coding+at+night...;%E2%98%95+Fueled+by+coffee...;%F0%9F%94%A5+Breaking+APKs...;%F0%9F%9A%80+Shipping+features..." alt="Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%93%B1+Building+Flutter+apps...;%E2%98%95+Fueled+by+coffee...;%F0%9F%94%A5+Breaking+APKs...;%F0%9F%9A%80+Shipping+mobile+%26+web+apps..." alt="Activity" />
 
 <br><br>
 
@@ -154,11 +154,11 @@ const bidzz = {
 <td width="50%">
 
 ```text
-🔓 Reverse Engineering   ████████████████████░   95%
-💻 Web Development       ████████████████░░░░░   80%
-🐍 Python Automation     ████████████░░░░░░░░░   60%
-📱 Mobile Development    ██████████░░░░░░░░░░░   50%
-🎨 UI/UX Design          ████████░░░░░░░░░░░░░   40%
+� Felutter/Dart          ████████████████████░   95%
+☕ Java/Kotlin           ████████████████░░░░░   80%
+� Wetb Development       ████████████████░░░░░   80%
+� Rebverse Engineering   ████████████████████░   95%
+🔥 Firebase              ██████████████░░░░░░░   70%
 ```
 
 </td>
