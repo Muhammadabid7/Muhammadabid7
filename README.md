@@ -6,6 +6,11 @@
 <!-- Animated Wave -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
+<!-- Profile Picture -->
+<img src="https://bidzzofficial.my.id/Bidzz.png" width="180" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);" alt="Bidzz Profile" />
+
+<br><br>
+
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Muhammadabid7&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
