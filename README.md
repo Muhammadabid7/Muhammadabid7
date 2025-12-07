@@ -114,29 +114,67 @@ const bidzz = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Journey
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/Muhammadabid7">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadabid7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=86400" width="49%" />
-</a>
-<a href="https://github.com/Muhammadabid7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadabid7&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakLabel=667eea" width="49%" />
-</a>
+<!-- 3D Contribution Calendar -->
+<img src="https://raw.githubusercontent.com/Muhammadabid7/Muhammadabid7/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
 
 <br><br>
 
-<!-- Top Languages -->
-<a href="https://github.com/Muhammadabid7">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadabid7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=86400" width="40%" />
-</a>
+<!-- Animated Metrics Cards -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🔥_Projects-10+-ff6b6b?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐_Stars_Earned-50+-feca57?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Commits-500+-667eea?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/☕_Coffee-∞-f093fb?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Coding Activity Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%8C%99+Coding+at+night...;%E2%98%95+Fueled+by+coffee...;%F0%9F%94%A5+Breaking+APKs...;%F0%9F%9A%80+Shipping+features..." alt="Activity" />
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadabid7&bg_color=0D1117&color=667eea&line=f093fb&point=ff6b6b&area=true&hide_border=true" width="95%"/>
+<!-- Skill Progress Bars -->
+<table width="100%">
+<tr>
+<td width="50%">
+
+```text
+🔓 Reverse Engineering   ████████████████████░   95%
+💻 Web Development       ████████████████░░░░░   80%
+🐍 Python Automation     ████████████░░░░░░░░░   60%
+📱 Mobile Development    ██████████░░░░░░░░░░░   50%
+🎨 UI/UX Design          ████████░░░░░░░░░░░░░   40%
+```
+
+</td>
+<td width="50%">
+
+```text
+⚡ Problem Solving       ████████████████████░   95%
+🧠 Quick Learning        ███████████████████░░   90%
+🤝 Team Collaboration    ████████████████░░░░░   80%
+📚 Documentation         ██████████████░░░░░░░   70%
+🎯 Project Management    ████████████░░░░░░░░░   60%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
