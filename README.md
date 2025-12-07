@@ -119,13 +119,19 @@ const bidzz = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadabid7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadabid7&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakLabel=667eea" width="49%" />
+<a href="https://github.com/Muhammadabid7">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadabid7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&cache_seconds=86400" width="49%" />
+</a>
+<a href="https://github.com/Muhammadabid7">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadabid7&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakLabel=667eea" width="49%" />
+</a>
 
 <br><br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadabid7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" width="40%" />
+<a href="https://github.com/Muhammadabid7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadabid7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&cache_seconds=86400" width="40%" />
+</a>
 
 <br><br>
 
