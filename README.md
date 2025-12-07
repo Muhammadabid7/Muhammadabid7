@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=BIDZZ%20OFFICIAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%2C%20Java%2C%20Kotlin%20%7C%20Mobile%20%26%20Web%20Development%20%7C%20Reverse%20Engineering&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=BIDZZ%20OFFICIAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%2C%20Java%2C%20Kotlin%20%7C%20Mobile%20and%20Web%20Dev%20%7C%20Reverse%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Profile Picture -->
 <img src="https://bidzzofficial.my.id/Bidzz.png" width="180" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);" alt="Bidzz Profile" />
