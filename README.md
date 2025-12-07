@@ -46,7 +46,7 @@
 const bidzz = {
     name: "Muhammad Abid Feriwijaya Hervian",
     age: 18,
-    location: "Pengadan, East Kalimantan 🇮🇩",
+    location: "Pengadan, East Kalimantan",
     role: ["Software Developer", "Mobile Developer", "Reverse Engineer"],
     
     skills: {
@@ -57,7 +57,7 @@ const bidzz = {
     },
     
     currentFocus: "Building mobile & web applications",
-    funFact: "I break things to understand how they work 🔓"
+    funFact: "I break things to understand how they work"
 };
 ```
 
@@ -80,36 +80,37 @@ const bidzz = {
 <tr>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-<br><b>� Meobile Development</b>
+<br><b>Mobile Development</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Advanced-667eea?style=flat-square"/>
-<br><sub>Flutter • Java • Kotlin</sub>
+<br><sub>Flutter - Java - Kotlin</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
-<br><b>💻 Web Development</b>
+<br><b>Web Development</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Advanced-54a0ff?style=flat-square"/>
-<br><sub>React • Next.js • JS</sub>
+<br><sub>React - Next.js - JS</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-<br><b>� Retverse Engineering</b>
+<br><b>Reverse Engineering</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Expert-ff6b6b?style=flat-square"/>
-<br><sub>APK • Smali • Frida</sub>
+<br><sub>APK - Smali - Frida</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/UqpBpBLTlJcAg5qJrl/giphy.gif" width="60"/>
-<br><b>�️C Tools & DevOps</b>
+<br><b>Tools and DevOps</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Intermediate-feca57?style=flat-square"/>
-<br><sub>Git • Firebase • Android Studio</sub>
+<br><sub>Git - Firebase - Android Studio</sub>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -127,16 +128,16 @@ const bidzz = {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🔥_Projects-10+-ff6b6b?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Projects-10+-ff6b6b?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/⭐_Stars_Earned-50+-feca57?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Stars_Earned-50+-feca57?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎯_Commits-500+-667eea?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Commits-500+-667eea?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/☕_Coffee-∞-f093fb?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Coffee-Unlimited-f093fb?style=for-the-badge&labelColor=0D1117"/>
 </td>
 </tr>
 </table>
@@ -144,7 +145,7 @@ const bidzz = {
 <br>
 
 <!-- Coding Activity Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%93%B1+Building+Flutter+apps...;%E2%98%95+Fueled+by+coffee...;%F0%9F%94%A5+Breaking+APKs...;%F0%9F%9A%80+Shipping+mobile+%26+web+apps..." alt="Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+Flutter+apps...;Fueled+by+coffee...;Breaking+APKs...;Shipping+mobile+and+web+apps..." alt="Activity" />
 
 <br><br>
 
@@ -154,22 +155,22 @@ const bidzz = {
 <td width="50%">
 
 ```text
-� Felutter/Dart          ████████████████████░   95%
-☕ Java/Kotlin           ████████████████░░░░░   80%
-� Wetb Development       ████████████████░░░░░   80%
-� Rebverse Engineering   ████████████████████░   95%
-🔥 Firebase              ██████████████░░░░░░░   70%
+Flutter/Dart             95%  ████████████████████░
+Java/Kotlin              80%  ████████████████░░░░░
+Web Development          80%  ████████████████░░░░░
+Reverse Engineering      95%  ████████████████████░
+Firebase                 70%  ██████████████░░░░░░░
 ```
 
 </td>
 <td width="50%">
 
 ```text
-⚡ Problem Solving       ████████████████████░   95%
-🧠 Quick Learning        ███████████████████░░   90%
-🤝 Team Collaboration    ████████████████░░░░░   80%
-📚 Documentation         ██████████████░░░░░░░   70%
-🎯 Project Management    ████████████░░░░░░░░░   60%
+Problem Solving          95%  ████████████████████░
+Quick Learning           90%  ███████████████████░░
+Team Collaboration       80%  ████████████████░░░░░
+Documentation            70%  ██████████████░░░░░░░
+Project Management       60%  ████████████░░░░░░░░░
 ```
 
 </td>
@@ -188,26 +189,19 @@ const bidzz = {
 <a href="https://youtube.com/@BidzzOfficial">
   <img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" height="35"/>
 </a>
-&nbsp;
 <a href="https://t.me/BidzzOfficial">
   <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
 </a>
-&nbsp;
 <a href="https://bidzzofficial.my.id">
   <img src="https://img.shields.io/badge/Visit-Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
-
-<br><br>
-
-<!-- Spotify Now Playing (Optional - needs setup) -->
-<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" /> -->
 
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
@@ -233,7 +227,7 @@ const bidzz = {
 <br><br>
 
 <!-- Final Quote -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=%22Learning+is+resistance+against+ignorance.%22;%22Code+is+the+weapon.%22;Thanks+for+visiting!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=Learning+is+resistance+against+ignorance;Code+is+the+weapon;Thanks+for+visiting!" alt="Typing SVG" />
 
 <br><br>
 
